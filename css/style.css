@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(255, 255, 224);
+    margin: 8px 20px 3px;
+    font-family: 'times new roman', palatino linotype, athena, tahoma;
+    font-size: 10pt;
+}
+
+h1, h2 {
+    font-size: 12pt;
+    color: rgb(204,0,0);
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30;
+    margin-bottom: 12;
+}
+
+.dedication {
+    display: block;
+    text-transform: uppercase;
+    margin: 14px 0 14px;
+}
+.cursive {
+    font-style: italic;
+    color: blue;
+}
